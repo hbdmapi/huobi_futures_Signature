@@ -1,4 +1,3 @@
-# Note
 verification signature authentication
 
 ## nodejs
