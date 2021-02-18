@@ -1,0 +1,2 @@
+# huobi_futures_Signature
+verification signature authentication
